@@ -34,7 +34,7 @@ Executar um container docker digitando no Terminal o comando
 docker container run -d -p3000:3000 --name aluno-online --network minha-rede aluno-online
 ```
 
-Abrir a url <http://localhost:3000/> no navegador. Autenticar com a matrícula `2023100` e senha `senha123`.
+Abrir a url <http://localhost:3000/> no navegador. Autenticar com a matrícula `2020100` e senha `senha123`.
 
 ### 3. Executando os testes unitários
 
